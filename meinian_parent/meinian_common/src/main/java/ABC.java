@@ -6,6 +6,6 @@ package meinian_common.src.main.java;
  */
 public class ABC {
     public static void main(String[] args) {
-        System.out.println("hello ABC");
+        System.out.println("hello ABC dev");
     }
 }
